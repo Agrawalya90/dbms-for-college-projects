@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+sentence-transformers
+torch
+PyPDF2
+langchain
+duckduckgo-search
